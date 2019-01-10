@@ -30,3 +30,13 @@ We will review how to get setup in Github in person, but I'm posting this link h
 ## Weekly Recaps
 
 We will be meeting on average once a week to review your projects, brainstorm, do a Q&A, share what we've learned, and more. I'll be posting a short update here along with links to any files so that you can always have easy access to them.
+
+### Week 1: Introductions
+
+    -Agenda: Thursday, January 10, 2019:
+        -Personal intro
+        -ALTC intro
+        -Github review
+        -Artsy API overview
+        -Project initial brainstorm
+        -Q&As
