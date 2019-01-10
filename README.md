@@ -7,7 +7,7 @@ I'm Ashley, a software engineer at Artsy, and I'll be your mentor over the next 
 You can read more in the intro documents [here.](https://github.com/artsy/README/blob/master/events/artsy-learns-to-code.md)
 
 - You will be working your way through the [Udacity Intro to JavaScript Course](https://www.udacity.com/course/intro-to-javascript--ud803)
-- Defining and building an application using one of [Artsy's APIs](https://api.artsy.net/)
+- Defining and building an application using one of [Artsy's APIs](https://developers.artsy.net/)
 - Showing off your hard work in April at [Artsy Learns to Code's Demo Day](https://github.com/artsy/README/blob/master/events/demo-days.md)
 
 ## Learning Resources
